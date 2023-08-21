@@ -3,10 +3,9 @@
 <p><em>A bachelor student at <a href="https://www.birmingham.ac.uk/index.aspx">University of Birmingham</a>, majoring in Computer Science 🙂</br>
 </em></p>
 
-```
 ```python
 elyor = {
-   "pronouns": ["he", "him"],
+   "pronouns": "he" or "him",
    "code": ["Python", "C++"],
    "technologies": ["Bash", "MySQL", "SQLite", "Ubuntu"],
 }
