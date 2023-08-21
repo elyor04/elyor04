@@ -12,6 +12,7 @@ elyor = {
       "IDEs": ["VsCode", "Qt Creator"],
       "databases": ["MySQL", "SQLite"],
       "libraries": ["OpenCV", "Qt", "Tensorflow"],
+      "tools": ["Bash", "Git", "Make", "Qmake"],
    },
 }
 ```
