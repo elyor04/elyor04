@@ -10,7 +10,7 @@ elyor = {
    "technologies": {
       "platforms": ["Ubuntu", "Windows", "macOS"],
       "IDEs": ["VsCode", "Qt Creator"],
-      "database": ["MySQL", "SQLite"],
+      "databases": ["MySQL", "SQLite"],
       "libraries": ["OpenCV", "Qt", "Tensorflow"],
    },
 }
