@@ -6,7 +6,7 @@
 ```python
 elyor = {
    "pronouns": "He" or "Him",
-   "codes": ["Python", "C++"],
+   "code": ["Python", "C++"],
    "technologies": {
       "platforms": ["Ubuntu", "Windows", "macOS"],
       "IDEs": ["VsCode", "Qt Creator"],
