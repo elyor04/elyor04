@@ -8,7 +8,7 @@ elyor = {
    "pronouns": "He" or "Him",
    "code": ["Python", "C++"],
    "technologies": {
-      "platforms": ["Ubuntu", "Windows"],
+      "platforms": ["Ubuntu", "Windows", "macOS"],
       "IDEs": ["VsCode", "Qt Creator"],
       "database": ["MySQL", "SQLite"],
       "libraries": ["OpenCV", "Qt", "Tensorflow"],
