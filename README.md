@@ -4,6 +4,7 @@
 </em></p>
 
 </br>
+<h2>About me</h2>
 
 ```python
 elyor = {
@@ -21,5 +22,6 @@ elyor = {
 ```
 
 </br>
+<h2>Some stats</h2>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elyor04&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
