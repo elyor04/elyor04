@@ -3,6 +3,7 @@
 <p><em>A bachelor student at <a href="https://www.birmingham.ac.uk/index.aspx">University of Birmingham</a>, majoring in Computer Science 🙂
 </em></p>
 
+</br>
 ```python
 elyor = {
    "pronouns": "He" or "Him",
@@ -17,5 +18,6 @@ elyor = {
    "apps": ["Desktop Apps", "AI Apps"],
 }
 ```
+</br>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elyor04&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
