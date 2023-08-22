@@ -14,7 +14,7 @@ elyor = {
       "databases": ["MySQL", "SQLite"],
       "libraries": ["OpenCV", "Qt", "Tensorflow"],
    },
-   "apps": ["Desktop Apps"],
+   "apps": ["Desktop Apps", "AI Apps"],
 }
 ```
 
