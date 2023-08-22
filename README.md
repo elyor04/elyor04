@@ -9,7 +9,7 @@ elyor = {
    "technologies": {
       "platforms": ["Ubuntu", "Windows", "macOS"],
       "IDEs": ["VsCode", "Qt Creator"],
-      "tools": ["Bash", "Git", "Make", "Qmake"],
+      "tools": ["Bash", "Shell", "Git", "Make", "Qmake"],
       "databases": ["MySQL", "SQLite"],
       "libraries": ["OpenCV", "Qt", "Tensorflow"],
    },
