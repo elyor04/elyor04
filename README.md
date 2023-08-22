@@ -1,9 +1,8 @@
-### Hi there 👋 I'm Elyor Tukhtamuratov 👨‍💻
-
+## Hi there 👋 I'm Elyor Tukhtamuratov 👨‍💻
 <p><em>A bachelor student at <a href="https://www.birmingham.ac.uk/index.aspx">University of Birmingham</a>, majoring in Computer Science 🙂
 </em></p>
 
-#### About me
+### About me 👤
 ```python
 elyor = {
    "pronouns": "He" or "Him",
@@ -19,5 +18,5 @@ elyor = {
 }
 ```
 
-#### Some stats 📊
+### Some stats 📊
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elyor04&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
