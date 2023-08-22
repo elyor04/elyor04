@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Elyor Tukhtamuratov 👨‍💻
+## Hi there, I'm Elyor Tukhtamuratov 👨‍💻
 <p><em>A bachelor student at <a href="https://www.birmingham.ac.uk/index.aspx">University of Birmingham</a>, majoring in Computer Science 🙂
 </em></p>
 
