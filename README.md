@@ -1,5 +1,5 @@
 ## Hi there, I'm Elyor Tukhtamuratov 👨‍💻
-<em>A bachelor student at <a href="https://www.birmingham.ac.uk/index.aspx">University of Birmingham</a>, majoring in Computer Science 🙂</em>
+<em>A foundation student at <a href="https://www.birmingham.ac.uk/index.aspx">University of Birmingham</a>, majoring in Computer Science 🙂</em>
 
 ### About me 👤
 ```python
