@@ -4,15 +4,15 @@
 ```python
 elyor = {
    "pronouns": "He" or "Him",
-   "code": ["Python", "C++"],
+   "code": ["Python", "Node.js", "C++"],
    "technologies": {
       "platforms": ["Ubuntu", "Windows", "macOS"],
-      "IDEs": ["VsCode", "Qt Creator"],
-      "tools": ["Bash", "Shell", "Git", "Make", "Qmake"],
-      "databases": ["MySQL", "SQLite"],
-      "libraries": ["OpenCV", "Qt", "Tensorflow"],
+      "IDEs": ["VsCode", "WebStorm", "Qt Creator"],
+      "tools": ["Docker", "Bash", "Shell", "Git", "CMake", "QMake"],
+      "databases": ["MySQL", "SQLite", "MongoDB"],
+      "libraries": ["Express.js", "Aiogram", "Django", "OpenCV", "Qt", "Tensorflow"],
    },
-   "apps": ["Desktop Apps", "AI Apps"],
+   "apps": ["Server Side Web Apps", "Desktop Apps", "Computer Vision Apps"],
 }
 ```
 
