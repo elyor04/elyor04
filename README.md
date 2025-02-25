@@ -8,7 +8,7 @@ elyor = {
    "technologies": {
       "platforms": ["Ubuntu", "Windows", "macOS"],
       "IDEs": ["VsCode", "WebStorm", "Qt Creator"],
-      "tools": ["Docker", "Bash", "Shell", "Git", "CMake", "QMake"],
+      "tools": ["Docker", "Nginx", "Bash", "SQL", "Shell", "Git", "CMake", "QMake"],
       "databases": ["MySQL", "SQLite", "MongoDB"],
       "libraries": ["Express.js", "Aiogram", "Django", "OpenCV", "ASP.NET Core", "Qt", "Tensorflow"],
    },
