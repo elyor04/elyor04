@@ -3,14 +3,14 @@
 ### About me 👤
 ```python
 elyor = {
-   "pronouns": "He" or "Him",
+   "pronouns": ["He", "Him"],
    "code": ["Python", "Node.js", "C#", "C++"],
    "technologies": {
       "platforms": ["Ubuntu", "Windows", "macOS"],
       "IDEs": ["VsCode", "WebStorm", "Qt Creator"],
       "tools": ["Docker", "Nginx", "Bash", "SQL", "Shell", "Git", "CMake", "QMake"],
       "databases": ["MySQL", "SQLite", "MongoDB"],
-      "libraries": ["Express.js", "Aiogram", "Django", "OpenCV", "ASP.NET Core", "Qt", "Tensorflow"],
+      "libraries": ["Express.js", "Aiogram", "Django", "OpenCV", "ASP.NET Core", "Qt"],
    },
    "apps": ["Server Side Web Apps", "Telegram Bots", "Desktop Apps", "Computer Vision Apps"],
 }
