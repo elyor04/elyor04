@@ -6,7 +6,7 @@ elyor = {
    "pronouns": ["He", "Him"],
    "code": ["Python", "Node.js", "C#", "C++"],
    "technologies": {
-      "platforms": ["Ubuntu", "Windows", "macOS"],
+      "platforms": ["Ubuntu", "Windows", "MacOS"],
       "IDEs": ["VsCode", "WebStorm", "Qt Creator"],
       "tools": ["Docker", "Nginx", "Bash", "SQL", "Shell", "Git", "CMake", "QMake"],
       "databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
