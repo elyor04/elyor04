@@ -12,7 +12,7 @@ elyor = {
       "databases": ["MySQL", "PostgreSQL", "SQLite", "MongoDB"],
       "libraries": ["Express.js", "Aiogram", "Django", "OpenCV", "ASP.NET Core", "Qt"],
    },
-   "apps": ["Server Side Web Apps", "Telegram Bots", "Desktop Apps", "Computer Vision Apps"],
+   "apps": ["Server Side Apps", "Telegram Bots", "Desktop Apps", "Computer Vision Apps"],
 }
 ```
 
