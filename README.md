@@ -9,7 +9,7 @@ elyor = {
       "platforms": ["Ubuntu", "Windows", "macOS"],
       "IDEs": ["VsCode", "WebStorm", "Qt Creator"],
       "tools": ["Docker", "Nginx", "Bash", "SQL", "Shell", "Git", "CMake", "QMake"],
-      "databases": ["MySQL", "SQLite", "MongoDB"],
+      "databases": ["MySQL", "PostgreSQL, "SQLite", "MongoDB"],
       "libraries": ["Express.js", "Aiogram", "Django", "OpenCV", "ASP.NET Core", "Qt"],
    },
    "apps": ["Server Side Web Apps", "Telegram Bots", "Desktop Apps", "Computer Vision Apps"],
