@@ -19,7 +19,7 @@ elyor = {
 ### Some stats 📊
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=elyor04&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide=html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elyor04&layout=compact&hide=html)
 
 <div align="center">
 <i>Connect with me</i><br>
