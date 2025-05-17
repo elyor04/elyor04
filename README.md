@@ -21,7 +21,7 @@ elyor = {
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=elyor04&layout=compact&theme=dark&bg_color=151515)
 
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/elyor04.svg)](https://user-badge.committers.top/uzbekistan/elyor04)
+[![committers.top badge](https://user-badge.committers.top/uzbekistan_private/elyor04.svg)](https://user-badge.committers.top/uzbekistan_private/elyor04)
 
 <div align="center">
 <i>Connect with me</i><br>
