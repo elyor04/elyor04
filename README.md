@@ -26,6 +26,6 @@ elyor = {
 <div align="center">
 <i>Connect with me</i><br>
 <a href="https://linkedin.com/in/elyor04"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn"></a>
-<a href="https://t.me/elyor_py"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"></a>
+<a href="https://t.me/ely0r_py"><img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram"></a>
 <a href="https://instagram.com/elyor_04"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
 </div>
