@@ -17,11 +17,9 @@ elyor = {
 ```
 
 ### Some stats 📊
-![Github Stats](https://github-readme-stats.vercel.app/api?username=elyor04&show_icons=true&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](http://78.24.181.173:8063/stats?username=elyor04&private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=elyor04&layout=compact&theme=dark&bg_color=151515)
-
-[![committers.top badge](https://user-badge.committers.top/uzbekistan/elyor04.svg)](https://user-badge.committers.top/uzbekistan/elyor04)
+![Top Langs](http://78.24.181.173:8063/languages?username=elyor04&private=true)
 
 <div align="center">
 <i>Connect with me</i><br>
