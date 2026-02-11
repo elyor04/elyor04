@@ -17,9 +17,9 @@ elyor = {
 ```
 
 ### Some stats 📊
-![Github Stats](http://78.24.181.173:8063/stats?username=elyor04&private=true)
+![Github Stats](https://github-stats.elyor.online/stats?username=elyor04&private=true)
 
-![Top Langs](http://78.24.181.173:8063/languages?username=elyor04&private=true)
+![Top Langs](https://github-stats.elyor.online/languages?username=elyor04&private=true)
 
 <div align="center">
 <i>Connect with me</i><br>
